@@ -2,7 +2,7 @@
 30 days - 300 linux commands
 
 # Practicing 300 linux commands for 30 days. Each day is categorized under phases:
-Phase 1: Day 1 - 5:-File Navigation & File System Mastery
+Phase 1: Day 1 - 5:- File Navigation & File System Mastery
 
 Phase 2: Day 6 - 10: Permissions, Ownership & Security
 
