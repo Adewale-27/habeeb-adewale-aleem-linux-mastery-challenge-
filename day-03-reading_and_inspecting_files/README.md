@@ -10,6 +10,7 @@ Reading & inspecting files. Some tasks and commands according to today's challen
 
 # What surprised me
 'wc' & 'wc -l' this command give details about the file and particular line.
+'tail -f' this command monitor file in real time
 
 # Evidence
 Screenshots of the 10 commands are in the evidence
