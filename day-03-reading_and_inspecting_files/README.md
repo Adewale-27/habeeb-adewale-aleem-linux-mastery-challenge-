@@ -16,4 +16,5 @@ Screenshots of the 10 commands are in the evidence
 
 # Related
 prev day: ../day-02-creating-copying-moving-deleting
+
 next day: ../day-04-searching-the-filesystem
