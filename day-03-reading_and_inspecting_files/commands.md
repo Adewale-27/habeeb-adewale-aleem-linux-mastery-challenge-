@@ -1,4 +1,4 @@
-# Day 2: Reading & Inspecting Files
+# Day 3: Reading & Inspecting Files
 
 1. cat: It shows to display to what is in a file.
 2. less: It opens files but in if it a large one, it allows to scroll.
