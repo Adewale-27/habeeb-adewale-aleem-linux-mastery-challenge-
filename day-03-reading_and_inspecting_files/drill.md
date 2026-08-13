@@ -1,4 +1,4 @@
-# Day 02 Drill 
+# Day 03 Drill 
 
 # task: show what is the example file
 command: cat example.txt
