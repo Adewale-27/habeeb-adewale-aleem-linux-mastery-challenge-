@@ -1,4 +1,4 @@
-# Phase 2: Permission, Ownership & Security | Day 6 of 30
+# Phase 2: Permission, Ownership & Security | Day 7 of 30
 
 # Day 7: Ownership & Special Bits
 
