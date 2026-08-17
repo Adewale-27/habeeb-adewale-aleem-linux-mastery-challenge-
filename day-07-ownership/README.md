@@ -17,4 +17,4 @@ Screenshots of the 10 commands are in the evidence
 # Related
 prev day: ../day-05-permissions
 
-next day: ../day-07-day-08-privilege-escalation
+next day: ../day-08-privilege-escalation
