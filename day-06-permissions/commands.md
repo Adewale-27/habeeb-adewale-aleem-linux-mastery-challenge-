@@ -9,5 +9,4 @@
 7. chmod -R: It changes the permissions recursively for the directory and everything in it.
 8. umask: It displays the default permission mask used when creating new files or directories. 
 9. umask -S: It displays the mask in human-readable format. 
-
-10 stat -c '%A %U %G': It displays a file or directory's permissions, owner, and group in human-readable format. 
+10. stat -c '%A %U %G': It displays a file or directory's permissions, owner, and group in human-readable format. 
