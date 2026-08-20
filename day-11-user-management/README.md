@@ -10,6 +10,7 @@ Creating & Managing Users. Some tasks and commands according to today's challeng
 
 # What surprised me
 'usermod -aG' - 'aG' - add a user to an existing group without removing them from their other groups.
+
 'usermod -l' - change the login name (username) of an existing user.
 
 # Evidence
