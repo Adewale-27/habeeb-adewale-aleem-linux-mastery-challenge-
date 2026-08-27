@@ -16,7 +16,7 @@
 
 8. `dd` — Deletes the current line.
 
-9. `yy` / `p` — Copies the current line and pastes it.
+9. `yy` / `p` — Copies the current line with "yy" and pastes it "p".
 
 10. `u` / `Ctrl+r` — Undoes and redoes changes.
 
